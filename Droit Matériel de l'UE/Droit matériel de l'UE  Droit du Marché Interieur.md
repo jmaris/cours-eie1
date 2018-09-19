@@ -14,7 +14,11 @@
 
 #INTRODUCTION
 
-![](timeline.png)
+## i. Evolution de l'UE et son influence sur le droit européen
+
+### 1. Histoirique de l'évolution de l'UE![](timeline.png)
+
+
 
 - 1949 : conseil de l'europe traité de londres
 
@@ -26,39 +30,37 @@
 
 - **1986 : L'acte Unique européen (acte unique qui modifie les 3 traités)**
 
-- **1992 : Traité de Maastritch : Création de l'Union Européenne**
+- **1992 : Traité de Maastricht : Création de l'*Union Européenne***
 
-  - CEE => CE
-  - Elle n'a plus qu'un but économique
-    - Protéction de l'Environnement et autre
+  - Le CEE devient le CE, Elle a plus qu'un but économique
+  - Protéction de l'Environnement et autre => Création du JAI, du PESC
+  - cooperation judiciaire (madat arrêt européen)
+  - visa/asyl/immigration
+
+
+  - Vu que Les états membres du CEE peuvent "perdre la main" lors des négotiations **Ils ont crée l'UE** pour avoir un cadre dans lequel ils pourraient négotier les "politiques sensibles" 
     - cooperation judiciaire (madat arrêt européen)
     - visa/asyl/immigration
-  - Les états membres du CEE peuvent "perdre la main" lors des négotiations
-    - Ils ont crée l'UE pour avoir un cadre dans lequel ils pourraient négotier les "politiques sensibles" 
-      - Protéction de l'Environnement et autre
-      - cooperation judiciaire (madat arrêt européen)
-      - visa/asyl/immigration
-  - A partir de 92, plusieurs traités : 2 traités :
+  - A partir de  plusieurs traités : 2 traités :
     - L'UE qui comprends un sous-ensemble : la CE
-  - Amsterdam / Nice : peu de modifications
-    - On commence à faire passer des politiques de l'UE au cadre du CE (coopération judiciaire)
-  - **2007 : Lisbon**
-    - Entré en vigeur le 1er décembre 2009
-    - Fait converger les institutions vers une seule : l'UE
 
-- Formellement, l'UE repose sur deux traités : 
+- **Amsterdam / Nice : peu de modifications**
+  - On commence à faire passer des politiques de l'UE au cadre du CE (coopération judiciaire)
 
-  - TUE (Traité de Maastricht (modified multiple times)
-    - les grands principles, objectives, les principales institutions, "PESC => Politique étrangère et sécurité commune"
-  - TFUE (Traité sur le Fonctionnement de l'Union Européenne)
-    - annexes, protocols etc ..
-  - Les deux traités ont le meme valeur
+- **2007 : Lisbon**
+  - Entré en vigeur le 1er décembre 2009
+  - Fait converger les institutions vers une seule : l'UE
+  - Formellement, l'UE repose sur deux traités, qui ont le meme valeur : 
+    - TUE (Traité de Maastricht (modified multiple times)
+      - les grands principles, objectives, les principales institutions, "PESC => Politique étrangère et sécurité commune"
+    - TFUE (Traité sur le Fonctionnement de l'Union Européenne)
+      - annexes, protocols etc ..
   - Les autres pays n'ont jamais signé le traité de rome
     - Traités d'adhésion : chaque adhérant a négotié et conclu une traité d'adhésion (22 en totale)
 
-- Traité de constitution pour l'Europe (2005):
+- **Traité de constitution pour l'Europe (2005):**
 
-  - Aurait simpliié tout mais non bien il fallait faire chier
+  - ***<u>Aurait simpliié tout mais non bien il fallait faire chier</u>***
 
 - Difference entre simple traité et la création d'une organisation internationale :
 
@@ -75,17 +77,19 @@
           - des personnes qui vont agir pour l'organisation
   - Quand on crée une organisation internationale il faut créer des *organes*
 
-- Les Institutions :
+### 2. Les Institutions :
 
-  - **La Commission Européenne:**
-    - Répresente les interets propres de l'UE
-    - **Le Président de la Commission**
-      - Proposé par le *Conseil Européen*
-      - Confirmé par le parlement : la répresentant du parti avec la majorité
-    - **Les autres commissaires :**
-      - désignés par les états membres
-      - Le président reparti les commissaires
-      - Le parlement doit aprouver la commission
+- **La Commission Européenne:**
+  - Répresente les interets propres de l'UE
+  - **Le Président de la Commission**
+    - Proposé par le *Conseil Européen*
+    - Confirmé par le parlement : la répresentant du parti avec la majorité
+  - **Les autres commissaires :**
+    - désignés par les états membres
+    - Le président reparti les commissaires
+    - Le parlement doit aprouver la commission
+
+
   - **Le Parlement Européen**
     - Répresente *les peuples* des états membres (non un seul peuple européen)
     - élus au souffrage universelle directe proportionel (751)
@@ -101,55 +105,67 @@
   - **Cour de Justice de l'Union Européenne**
     - Au pars avant : CJCE (Cour de justice *des* communautés européens)
 
+### 3. La Législation
+
 - Les traités prévoit que l'UE puisse agir d'elle même en adoptant des *textes de droit* => des ***actes juridiques***
 
-  - TUE/TFUE
-    - Les Règles fondamentales du droit de l'UE
-    - Ils peuvent *légifier*, en adoptant :
-      - **Actes de porté générale** (définissent des règles générales, s'adresse à tous le monde) => règlement intérieur / **actes législatives**
-        - *Règlement*
-          - Appliqué directement
-          - crée des droits et des obligations pour les **individus**
-        - *Directives*
-          - Règles générales transposés par les états des pays membres
-          - Crée des droits et des obligations **pour les états**
-          - L'UE laisse un délai pour la transposition
-      - **Les décisions de justice**:
-        - *Les Arrêts et Ordanances*
-      - **Actes individuelles** (qui visent, désignent éxclusivement une ou plusieurs personnes) => diplome
-        - *décisions*
-          - Condamnation à amende des entreprises (Google) (décision de la commission)
-      - **Procédure législative ordinaire**
-        - Commission propose
-          - Represente les interets de l'UE (tous le monde)
-        - Le Conseil de l'Union le valide ou l'ammender
-          - Represente les interets des pays
-        - Le Parlement le valide ou l'ammende
-          - Represente les interets des peuples
-        - **trilogue** : les discussions informelles entre les institutions pour accélerer l'adoption des lois
-      - **Procédure législative spéciale**:
-        - Le PE est seulment consulté
-        - Conseil des ministres doit se mettre d'accord TOUS
-    - **Que fait la cour de justice ?**
-      - 2 juridictions :
-        - Cour de Justice => Juridiction suprème
-        - Tribunale de l'Union => 1ère instance dans certaines matières
-      - A **Luxembourg** : Le Cour de Justice de l'Union Européenne
-        - Chargé de vérifier le respect de droit de l'UE
-          - Les États, Les institutions de l'Union (la législation),
-      - Elle intervient de 2 manières :
-        - Directement Saisie (***Recours Directe***)
-          - 1er : *Recours en manquement* 
-            - A pour but de vérifier qu'un état respecte bien le droit de l'unon européenne
-            - La Comission peut saisir la cour dans le cadre d'un recours en manquement
-            - Les états peuvent aussi faire ça
-          - 2e : *Recours en annulation*
-            - Quand une institution de l'UE prends une décision qui ne respecte pas le droit européen
-            - Peut être prise par un état, une institution, une personne physique ou morale
-            - Si le traité est violé, le cour annule la directive
-        - Indirectement Saisie ()
+  - Ils peuvent *légifier*, en adoptant :
+    - **Actes de porté générale** (définissent des règles générales, s'adresse à tous le monde) => règlement intérieur / **actes législatives**
+      - *Règlement*
+        - Appliqué directement
+        - crée des droits et des obligations pour les **individus**
+      - *Directives*
+        - Règles générales transposés par les états des pays membres
+        - Crée des droits et des obligations **pour les états**
+        - L'UE laisse un délai pour la transposition
+    - **Les décisions de justice (prises par la CJUE)** :
+      - *Les Arrêts et Ordanances*
+    - **Actes individuelles** (qui visent, désignent éxclusivement une ou plusieurs personnes) => diplome
+      - *décisions*
+        - Condamnation à amende des entreprises (Google) (décision de la commission)
+    - **Procédure législative ordinaire**
+      1. Commission propose
 
-  ##I) L’objet du droit du marché intérieur : l’intégration économique par le droit
+      - Represente les interets de l'UE (tous le monde)
+
+      2. Le Conseil de l'Union le valide ou l'ammender
+
+      - Represente les interets des pays
+
+      3. Le Parlement le valide ou l'ammende
+
+      - Represente les interets des peuples
+
+
+      - **trilogue** : les discussions informelles entre les institutions pour accélerer l'adoption des lois
+    - **Procédure législative spéciale**:
+      - Le PE est seulment consulté
+      - Conseil des ministres doit se mettre d'accord TOUS
+
+### 4. La Cour de Justice de l'UE
+
+- 2 juridictions :
+  - Cour de Justice => Juridiction suprème
+  - Tribunale de l'Union => 1ère instance dans certaines matières
+- A **Luxembourg** : Le Cour de Justice de l'Union Européenne
+  - Chargé de vérifier le respect de droit de l'UE
+    - Les États, Les institutions de l'Union (la législation),
+- Elle intervient de 2 manières :
+  - Directement Saisie (***Recours Directe***)
+    - 1er : *Recours en manquement* 
+      - A pour but de vérifier qu'un état respecte bien le droit de l'unon européenne
+      - La Comission peut saisir la cour dans le cadre d'un recours en manquement
+      - Les états peuvent aussi faire ça
+    - 2e : *Recours en annulation*
+      - Quand une institution de l'UE prends une décision qui ne respecte pas le droit européen
+      - Peut être prise par un état, une institution, une personne physique ou morale
+      - Si le traité est violé, le cour annule la directive
+
+  - Indirectement Saisie ()
+
+    ​
+
+##I) L’objet du droit du marché intérieur : l’intégration économique par le droit
 
 ##II) Les étapes de la réalisation du marché intérieur
 
