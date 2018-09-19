@@ -237,15 +237,15 @@ testing
 
 ## I) Les bénéficiaires des libertés de circulation
 
-### 	A) Les conditions générales du bénéfice des libertés de circulation
+###  A) Les conditions générales du bénéfice des libertés de circulation
 
-#### 		1) Le lien avec un État membre
+#### 1) Le lien avec un État membre
 
-##### 			a) Le lien pour les personnes physiques : la condition de nationalité
+##### a) Le lien pour les personnes physiques : la condition de nationalité
 
-##### 			b) Le lien pour les sociétés : la constitution en vertu du droit national
+##### b) Le lien pour les sociétés : la constitution en vertu du droit national
 
-### 		2) Une situation transnationale
+#### 		2) Une situation transnationale
 
 ### 	B) Les conditions particulières à chaque liberté
 
@@ -277,7 +277,7 @@ testing
 
 #### 		4) Les limitations du droit d’entrée et de séjour
 
-### 	B) Les droits liés à l’accès et à l’exercice d’une activité économique
+## 	B) Les droits liés à l’accès et à l’exercice d’une activité économique
 
 #### 		1) Les mesures interdites en principe par le traité
 
@@ -285,7 +285,7 @@ testing
 
 #### 		3) La situation particulière des emplois dans la fonction publique ou participant à l’exercice de l’autorité publique
 
-### 	C) Les droits politiques du citoyen
+## 	C) Les droits politiques du citoyen
 
 #### 		1) Les droits liés aux élections au Parlement européen
 
