@@ -165,15 +165,15 @@
 
     ​
 
-##I) L’objet du droit du marché intérieur : l’intégration économique par le droit
+## I) L’objet du droit du marché intérieur : l’intégration économique par le droit
 
-##II) Les étapes de la réalisation du marché intérieur
+## II) Les étapes de la réalisation du marché intérieur
 
 
 
-#CHAPITRE I) LES MARCHANDISES
+# CHAPITRE I) LES MARCHANDISES
 
-##I) le champ d’application des règles relatives aux marchandises
+## I) le champ d’application des règles relatives aux marchandises
 
 ###	A) La notion de marchandise
 
@@ -183,7 +183,7 @@ testing
 
 ###	C) La dimension transnationale de l’échange de marchandises
 
-##II) L’Union douanière
+## II) L’Union douanière
 
 ### 	A) Le régime des échanges avec les États tiers
 
