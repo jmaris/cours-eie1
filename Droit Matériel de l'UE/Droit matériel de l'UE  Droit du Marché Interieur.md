@@ -259,23 +259,23 @@ testing
 
 
 
-# II) Les droits attachés aux libertés de circulation
+## II) Les droits attachés aux libertés de circulation
 
-## 	A) Les droits de circulation et de séjour des personnes physiques
+### 	A) Les droits de circulation et de séjour des personnes physiques
 
-### 		1) Les personnes physiques concernées
+#### 		1) Les personnes physiques concernées
 
-### 		2) Le droit de circuler entre les territoires des États membres
+#### 		2) Le droit de circuler entre les territoires des États membres
 
 ### 		3) Le droit de séjour sur le territoire de l’État d’accueil
 
-##### 			a) Le séjour jusqu’à trois mois
+#### 			a) Le séjour jusqu’à trois mois
 
-##### 			b) Le séjour de trois mois à cinq ans
+#### 			b) Le séjour de trois mois à cinq ans
 
-##### 			c) Le séjour permanent
+#### 			c) Le séjour permanent
 
-#### 		4) Les limitations du droit d’entrée et de séjour
+### 		4) Les limitations du droit d’entrée et de séjour
 
 ## 	B) Les droits liés à l’accès et à l’exercice d’une activité économique
 
