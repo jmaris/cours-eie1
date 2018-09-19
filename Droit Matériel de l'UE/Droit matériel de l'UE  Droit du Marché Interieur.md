@@ -1,7 +1,3 @@
----
-layout: page
-title: Droit Matériel de l'UE - Droit du marché intérieur
----
 # Droit matériel de l'UE : Droit du Marché Interieur
 
 
@@ -16,7 +12,7 @@ title: Droit Matériel de l'UE - Droit du marché intérieur
 
   ​
 
-#INTRODUCTION
+# INTRODUCTION
 
 ## i. Evolution de l'UE et son influence sur le droit européen
 
