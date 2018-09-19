@@ -1,3 +1,7 @@
+---
+layout: page
+title: Droit Matériel de l'UE - Droit du marché intérieur
+---
 # Droit matériel de l'UE : Droit du Marché Interieur
 
 
