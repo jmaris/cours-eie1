@@ -43,7 +43,12 @@
 - **approche sociologique ** (weber)
   - protestantisme 
   - rationalisation
-  - ​
+- Capitalisme et esprit d'entreprise : Schumpeter
+  - Entrepreneur pas capitalisme mais inovateur
+- Karl Polanyi
+  - Passage à l'économie de marché => le peuple perds le controle du marché "désencastré"
+  - développement du capitalisme
+- OMG
 
 ### B. Kapitalisme et marché, Kapitalisme ou marché ? 
 
